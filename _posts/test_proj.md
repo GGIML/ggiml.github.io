@@ -1,6 +1,6 @@
 ---
 title: Project Spot.it
-layout: default
+layout: post
 read_time: true
 ---
 
