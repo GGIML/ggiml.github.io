@@ -1,6 +1,6 @@
 title: Guillaume Gimonnet
 description: > # this means to ignore newlines until "baseurl:"
-  Guillaume Gimonnet, Senior Consultant and DataScientist @[Wavestone]https://www.wavestone.com.
+  Guillaume Gimonnet, Senior Consultant and DataScientist @Wavestone.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ggiml.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ url: "https://ggiml.github.io" # the base hostname & protocol for your site, e.g
 # Author Settings
 author: Guillaume Gimonnet # add your name
 author-img: ggi.jpg # add your photo
-about-author: I am a Senior Consultant and DataScientist @[Wavestone]https://www.wavestone.com. The purpose of this blog is to share with you some Data Science personal projects walkthroughs.
+about-author: I am a Senior Consultant and DataScientist @Wavestone. The purpose of this blog is to share with you some Data Science personal projects walkthroughs.
 social-github: ggiml # ig handle
 social-linkedin: guillaume-gimonnet-66368659 # add your Linkedin handle
 social-email: ggiml.github.io@gmail.com # add your Email address
