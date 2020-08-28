@@ -21,7 +21,7 @@ Let's start!
 
 ## Creation of the dataset
 First, we have to build our raw material: the dataset! It is an important part as we want our data to be quite representative of all (or almost) possible songs.
-The very first step is to find a list of hit songs, preferably over several years. Luckily, I found on [Dataworld](https://data.world/kcmillersean/billboard-hot-100-1958-2017/workspace/file?filename=Hot+Stuff.csv){:target="_blank"} this csv file contains all songs that have been at least 1 week in the Top 100 Billboard chart from 1958 to 2018.
+The very first step is to find a list of hit songs, preferably over several years. Luckily, I found on [Dataworld](https://data.world/kcmillersean/billboard-hot-100-1958-2017/workspace/file?filename=Hot+Stuff.csv) this csv file contains all songs that have been at least 1 week in the Top 100 Billboard chart from 1958 to 2018.
 
 //To be continued//
 
