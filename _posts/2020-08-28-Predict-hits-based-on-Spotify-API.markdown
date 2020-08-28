@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predict hits based on Spotify API
-date: 2020-09-09 00:00:00 +0200
+date: 2020-08-28 12:00:00 +0200
 description: Machine Learning applied to Spotify audio features for a classification task. # Add post description (optional)
 img: spot-it.png # Add image post (optional)
 tags: [classification, music, ml, anomaly, imbalanced, dataset] # add tag
