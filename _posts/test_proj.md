@@ -1,10 +1,12 @@
 ---
-title: Project Spot.it
 layout: post
-read_time: true
+title: Predict hits based on Spotify API
+date: 2020-09-09 00:00:00 +0200
+description: Machine Learning applied to Spotify audio features for a classification task. # Add post description (optional)
+img: spot-it.jpg # Add image post (optional)
+tags: [classification, music, ml, anomaly, imbalanced, dataset] # add tag
 ---
-
-<h1>Let's spot hits with Spotify!</h1>
+**Machine Learning applied to Spotify audio features for a classification task.**
 
 ## Context and problem
 I am a big user of Spotify and a musician, so this first project was kind of obvious. The idea is to use Spotify's API to retrieve data about songs (mainly audio features) and see if we can predict if a song will be a hit or not based on these features.
@@ -19,7 +21,7 @@ Let's start!
 
 ## Creation of the dataset
 First, we have to build our raw material: the dataset! It is an important part as we want our data to be quite representative of all (or almost) possible songs.
-The very first step is to find a list of hit songs, preferably over several years. Luckily, I found on [Dataworld](https://data.world/kcmillersean/billboard-hot-100-1958-2017/workspace/file?filename=Hot+Stuff.csv) this csv file contains all songs that have been at least 1 week in the Top 100 Billboard chart from 1958 to 2018.
+The very first step is to find a list of hit songs, preferably over several years. Luckily, I found on [Dataworld](https://data.world/kcmillersean/billboard-hot-100-1958-2017/workspace/file?filename=Hot+Stuff.csv){:target="_blank"} this csv file contains all songs that have been at least 1 week in the Top 100 Billboard chart from 1958 to 2018.
 
 //To be continued//
 
